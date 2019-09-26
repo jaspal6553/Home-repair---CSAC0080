@@ -1,6 +1,6 @@
 # Home-repair---CSAC0080
 Group Members names:
-Jaspal singh 
+Jaspal singh, 
 Gurpreet kaur
 Manjit kaur
 Paras kumar
